@@ -30,13 +30,13 @@
 <br/>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img align="left" alt="C" width="40px" src="attachments/langs/c.jpg"style="margin:0px 10px"/></a>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img align="left" alt="C++" width="40px" src="attachments/langs/cpp.png"style="margin:0px 10px"/></a>
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img align="left" alt="flutter" width="40px" src="attachments/langs/flutter.png"style="margin:0px 10px"/></a>
-<a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"><img align="left" alt="C++" width="40px" src="attachments/langs/git.png"style="margin:0px 10px"/></a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img align="left" alt="flutter" width="40px" height="40" src="attachments/langs/flutter.png" style="margin:0px 10px"/></a>
+<a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"><img align="left" alt="C++" width="45px" height="40" src="attachments/langs/git.png"style="margin:0px 10px"/></a>
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img align="left" alt="HTML" width="45px" height="40px"src="attachments/langs/html.jpeg"style="margin:0px 10px"/></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img align="left" alt="JS" width="40px" src="attachments/langs/js.png"style="margin:0px 10px"/></a>
-<a href="https://en.wikipedia.org/wiki/PHP" target="_blank"><img align="left" alt="PHP" width="40px" height="40px"src="attachments/langs/php.png"style="margin:0px 10px"/></a>
-<a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank"><img align="left" alt="Python" width="40px" src="attachments/langs/py.jpeg"style="margin:0px 10px"/></a>
-<a href="https://en.wikipedia.org/wiki/MySQL" target="_blank"><img align="left" alt="MySQL" width="40px" src="attachments/langs/sql.jpeg"style="margin:0px 10px"/></a><br/>
+<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img align="left" alt="JS" width="40px" height="40" src="attachments/langs/js.png"style="margin:0px 10px"/></a>
+<a href="https://en.wikipedia.org/wiki/PHP" target="_blank"><img align="left" alt="PHP" width="40px" height="40px" src="attachments/langs/php.png"style="margin:0px 10px"/></a>
+<a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank"><img align="left" alt="Python" width="40px" height="40px" src="attachments/langs/py.png"style="margin:0px 10px"/></a>
+<a href="https://en.wikipedia.org/wiki/MySQL" target="_blank"><img align="left" alt="MySQL" width="40px" src="attachments/langs/sql.png"style="margin:0px 10px"/></a><br/>
 <br/>
 
 ## Softwares I am familiar with
