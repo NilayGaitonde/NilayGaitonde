@@ -1,8 +1,6 @@
 ## Heyyo I'm <a>Nilay Gaitonde </a>!!
 
 ## My Socials
-
-<br/>
 <br/>
 <a href="https://www.hackerrank.com/nilaygaitonde" target="_blank"><img align="left" alt="Nilay Gaitonde | hackerrank.com" width="22px" src="attachments/socials/hacker.png"style="margin:0px 10px"/></a>
 <a href="https://www.instagram.com/nilay_0309/" target="_blank"><img align="left" alt="Nilay Gaitonde | instagram.com" width="22px" src="attachments/socials/ig.png"/ style="margin:0px 10px"></a>
@@ -35,7 +33,6 @@
 
 
 ## Softwares I am familiar with
-
-
+<br/>
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="Visual Studio" width="22px" src="attachments/software/vs.png"style="margin:0px 10px"/></a>
 <a href="https://developer.android.com/studio" target="_blank"><img align="left" alt="Visual Studio" width="22px" src="attachments/software/as.png"style="margin:0px 10px"/></a>
