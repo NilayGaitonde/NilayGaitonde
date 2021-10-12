@@ -1,13 +1,14 @@
 <h1 align="center">Hey!! I am Nilay Gaitonde</h1>
 
 ## About Me
-<br/>
-- 🌱 I'm currently learning Python <br/>
-- 📫 You can reach me at **nilay0160@gmail.com**<br/>
-- 🏎 My favourite sport is **F1**<br/>
-- 🍿 I love watching **Movies**(my favourite one is Portrait Of a Lady On Fire)<br/>
+
+- 📚 I am currently learning **Python**
+- ✉️ You can reach me at **nilay0160@gmail.com**
+- 🏎 My favourite sport is **F1**
+- 🍿 I love watching **Movies** (my favourite one is Portrait of a lady on fire)
 
 ## My Socials
+
 <br/>
 <a href="https://www.hackerrank.com/nilaygaitonde" target="_blank"><img align="left" alt="Nilay Gaitonde | hackerrank.com" width="40px" src="attachments/socials/hacker.png"style="margin:0px 10px"/></a>
 <a href="https://www.instagram.com/nilay_0309/" target="_blank"><img align="left" alt="Nilay Gaitonde | instagram.com" width="40px" src="attachments/socials/ig.png"/ style="margin:0px 10px"></a>
@@ -18,6 +19,7 @@
 <br/>
 
 ## My blogs
+
 <br/>
 - <a href="https://nilaygaitonde.medium.com/stagehand-a-discord-bot-to-make-your-movie-nights-better-ee4dfa3ff3c0">How to make a discord bot</a>
 
@@ -37,8 +39,8 @@
 <a href="https://en.wikipedia.org/wiki/MySQL" target="_blank"><img align="left" alt="MySQL" width="40px" src="attachments/langs/sql.jpeg"style="margin:0px 10px"/></a><br/>
 <br/>
 
-
 ## Softwares I am familiar with
+
 <br/>
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="Visual Studio" width="40px" src="attachments/software/vs.png"style="margin:0px 10px"/></a>
 <a href="https://developer.android.com/studio" target="_blank"><img align="left" alt="Visual Studio" width="40px" src="attachments/software/as.png"style="margin:0px 10px"/></a>
