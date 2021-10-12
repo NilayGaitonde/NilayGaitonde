@@ -1,4 +1,4 @@
-## Heyyo I'm `<a>`Nilay Gaitonde `</a>`!!
+## Heyyo I'm <a>Nilay Gaitonde </a>!!
 
 ## My Socials
 
