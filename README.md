@@ -1,9 +1,5 @@
 <h1 align="center">Hey!! I am Nilay Gaitonde</h1>
 
-<div align="center">
-  <img src="attachments/kevin.jpeg"/>
-</div>
-
 ## About Me
 
 - 📚 I am currently learning **Python**
