@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 📚 I am currently learning **Python**
+- 📚 I am currently learning **NLP**
 - ✉️ You can reach me at **nilay0160@gmail.com**
 - 🏎 My favourite sport is **F1**
 - 🍿 I love watching **Movies** (my favourite one is Portrait of a lady on fire)
