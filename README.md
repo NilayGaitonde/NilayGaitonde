@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 📚 I am currently learning **NLP**
+- 📚 I am currently learning **Deep Learning**
 - ✉️ You can reach me at **nilay0160@gmail.com**
 - 🏎 My favourite sport is **F1**
 - 🍿 I love watching **Movies** (my favourite one is Portrait of a lady on fire)
@@ -15,6 +15,7 @@
 <a href="https://www.linkedin.com/in/nilay-gaitonde-5890a31b6/" target="_blank"><img align="left" alt="Nilay Gaitonde | linkedin.com" width="40px" src="attachments/socials/li.png" style="margin:0px 10px"/></a>
 <a href="https://nilaygaitonde.medium.com/" target="_blank"><img align="left" alt="Nilay Gaitonde | medium.com" width="40px" height="40" src="attachments/socials/medium.jpeg" style="margin:0px 10px"/></a>
 <a href="https://twitter.com/GaitondeNilay" target="_blank"><img align="left" alt="Nilay Gaitonde | twitter.com" width="45px" height="40px"src="attachments/socials/tweet.png" style="margin:0px 10px"/></a>
+<a href="https://www.kaggle.com/nilaygaitonde/" target="_blank"><img align="left" alt="Nilay Gaitonde | kaggle.com" width="40px" height="40" src="attachments/socials/kaggle.jpeg" style="margin:0px 10px"/></a>
 <br/>
 <br/>
 
